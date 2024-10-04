@@ -9,7 +9,7 @@ consentNotice:
     changeDescription: Od vaší poslední návštěvy došlo ke změnám, obnovte prosím svůj souhlas.
     description: „Dobrý den! Můžeme povolit některé další služby pro {purposes}? Svůj souhlas můžete kdykoliv změnit nebo odvolat.“
     learnMore|capitalize: Vyberu si
-účely:
+purposes:
     functional:
         title|capitalize: Poskytování služeb
         description: |
