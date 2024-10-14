@@ -428,10 +428,9 @@
     }
 
     .cookie-modal-notice {
-        @include modal(400px, 400px);
-
         padding: 1em;
         padding-top: 0.2em;
+        @include modal(400px, 400px);
 
         .cn-ok {
             display: flex;
