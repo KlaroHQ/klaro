@@ -1,9 +1,8 @@
-# Warning, this file is partially automatically generated!
 acceptAll: Zaakceptuj wszystkie
 acceptSelected: Zaakceptuj wybrane
 close: Zamknij
 consentModal:
-  description: Tutaj mogą Państwo ocenić i dostosować usługi, które chcielibyśmy wykorzystać na tej stronie. Włączaj lub wyłączaj usługi według własnego uznania.
+  description: Tutaj mogą Państwo ocenić i dostosować usługi, które chcielibyśmy wykorzystać na tej stronie. Usługi można włączać i wyłączać według własnego uznania.
   privacyPolicy:
     name: polityką prywatności
     text: Aby dowiedzieć się więcej, prosimy o zapoznanie się z naszą {privacyPolicy}.
@@ -11,8 +10,8 @@ consentModal:
 consentNotice:
   changeDescription: Od Twojej ostatniej wizyty nastąpiły zmiany, prosimy o odnowienie
     zgody.
-  description: Czy możemy włączyć dodatkowe usługi dla {purposes}? W każdej
-    chwili mogą Państwo później zmienić lub wycofać swoją zgodę.
+  description: Czy możemy włączyć dodatkowe usługi na następujące potrzeby: {purposes}? W każdej
+    chwili mogą Państwo zmienić lub wycofać swoją zgodę.
   imprint:
     name: Imprint
   learnMore: Pozwól mi wybrać
@@ -24,10 +23,10 @@ contextualConsent:
   acceptOnce: Tak
   description: Czy chcą Państwo załadować treści zewnętrzne dostarczane przez {title}?
 decline: Odmawiam
-ok: Ok
+ok: OK
 poweredBy: Technologia dostarczona przez Klaro
 privacyPolicy:
-  name: polityka prywatności
+  name: polityką prywatności
   text: Aby dowiedzieć się więcej, prosimy o zapoznanie się z naszą {privacyPolicy}.
 purposeItem:
   service: usługa
