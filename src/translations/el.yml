@@ -42,6 +42,6 @@ decline: Απόρριπτω
 ok: OK
 poweredBy: Υποστηρίζεται από το Klaro!
 purposeItem:
-    service: ''
-    services: ''
+    service: 'Υπηρεσία'
+    services: 'Υπηρεσίες'
 save: Αποθήκευση
