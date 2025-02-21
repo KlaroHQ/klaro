@@ -111,7 +111,7 @@ export function render(config, opts){
 export function renderContextualConsentNotices(manager, tt, lang, config, opts){
     const notices = []
     for(const service of config.services){
-        const consent = manager.getConsent(service.name) && manager.confirmed
+        const consent = manager.getConsent(service.name) && (manager.confirmed || service.optOut)
         const elements = document.querySelectorAll("[data-name='"+service.name+"']")
         for(const element of elements){
             const ds = dataset(element)
